@@ -1,1 +1,5 @@
-/home/faham/.gitconfig
+[user]
+	name = faham1997
+	email = nafidfaham08@gmail.com
+[init]
+	defaultBranch = main
